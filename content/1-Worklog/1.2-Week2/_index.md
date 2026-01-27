@@ -16,42 +16,25 @@ pre: " <b> 1.2. </b> "
 * Understand basic AWS services, how to use the console & CLI.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| Day           | Task                                                                                                                                                                                                 | Start Date | Completion Date | Reference Material                                                                                                                                                     |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2     | - Reviewed AWS Storage concepts.<br>- Learned about S3 buckets and lifecycle policies.<br>- Explored common S3 use cases and storage classes.                                                    | 01/19/2026 | 01/19/2026      | [https://cloudjourney.awsstudygroup.com/](https://cloudjourney.awsstudygroup.com/)<br>[https://specialforce.awsstudygroup.com](https://specialforce.awsstudygroup.com) |
+| 3   |- Studied S3 lifecycle policies and object management.<br>- Configured lifecycle rules to manage object transitions and deletion.<br>- Reviewed cost optimization strategies for S3 storage.     | 01/20/2026 | 01/20/2026      | [https://cloudjourney.awsstudygroup.com/](https://cloudjourney.awsstudygroup.com/)<br>[https://specialforce.awsstudygroup.com](https://specialforce.awsstudygroup.com) |
+| 4  |- Learned about EBS volumes and snapshots.<br>- Created and attached EBS volumes to EC2 instances.<br>- Practiced creating and restoring EBS snapshots.                                          | 01/21/2026 | 01/21/2026      | [https://cloudjourney.awsstudygroup.com/](https://cloudjourney.awsstudygroup.com/)<br>[https://specialforce.awsstudygroup.com](https://specialforce.awsstudygroup.com) |
+| 5 |- Learned Amazon RDS fundamentals.<br>- Set up and configured an RDS database instance.<br>- Practiced basic RDS management tasks such as backups and monitoring.                                | 01/22/2026 | 01/22/2026      | [https://cloudjourney.awsstudygroup.com/](https://cloudjourney.awsstudygroup.com/)<br>[https://specialforce.awsstudygroup.com](https://specialforce.awsstudygroup.com) |
+| 6 |- Hands-on practice: built a simple file upload system.<br>- Uploaded and stored files using Amazon S3.<br>- Reviewed weekly learning outcomes and summarized key storage and database concepts. | 01/23/2026 | 01/23/2026      | [https://cloudjourney.awsstudygroup.com/](https://cloudjourney.awsstudygroup.com/)<br>[https://specialforce.awsstudygroup.com](https://specialforce.awsstudygroup.com) |
 
 
 ### Week 2 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Gained a clear understanding of Amazon S3 buckets, storage classes, and lifecycle policies for automated data management.
 
-* Successfully created and configured an AWS Free Tier account.
+* Learned how to manage EBS volumes, including attaching volumes to EC2 instances and creating snapshots for backup and recovery.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* Acquired basic knowledge of Amazon RDS, including database setup, configuration, and essential management tasks.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* Successfully completed a hands-on project to build a simple file upload system, storing uploaded files in S3.
 
-* Used AWS CLI to perform basic operations such as:
+* Improved practical skills through hands-on labs, strengthening understanding of AWS storage and database services.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Built a strong foundation for working with more advanced AWS architectures and real-world cloud applications.
